@@ -15,7 +15,22 @@ Actualmente, el estado de las plantas se revisa de forma manual y tardía, lo qu
 - Pérdida de vegetación
 
 
+## 💡 Solución
 
+EcoRover Q es un rover que monitorea plantas en tiempo real usando Inteligencia Artificial en el borde (Edge AI).
+
+El sistema:
+
+- 📷 Captura imágenes de hojas
+- 🧠 Clasifica su estado en tiempo real
+- 🌡️ Mide temperatura ambiental
+- 🚗 Se desplaza de forma predefinida
+
+Clasificación:
+
+- 🌿 Hoja sana
+- ⚠️ Hoja no sana
+- 🟫 Background
   
 
 ## Requisitos de Hardware
