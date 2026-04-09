@@ -44,32 +44,37 @@ Dataset propio: ~120 imágenes por clase
 
 Ejecutado directamente en Arduino UNO Q
 
-## Requisitos de Hardware
+## Hardware
 
-•	Arduino UNO Q
-•	See3CAM
-•	Arduino MODULINO DISTANCE (vl53l4cd)
-•	Arduino MODULINO THERMO 
-•	Chasis carrito aluminio
-•	4 llantas omnidireccionales
-•	Power bank
-•	4 motor DC
-•	2 modulo puente H L298
-•	Porta pilas 
-•	2 baterías Litio recargables
-•	Cables dupont jumpers
-•	Trípode 
-•	Cables de datos usb
+- Arduino UNO Q
+- See3CAM
+- Arduino MODULINO DISTANCE (vl53l4cd)
+- Arduino MODULINO THERMO
+- Chasis carrito aluminio
+- 4 llantas omnidireccionales
+- Power bank
+- 4 motor DC
+- 2 modulo puente H L298
+- Porta pilas
+- 2 baterías Litio recargables
+- Cables dupont jumpers
+- Trípode
+- Cables de datos usb
+
+## ¿Cómo funciona?
+- El rover avanza en un ratu predefinida
+- Captura imágenes de hojas
+- El modelo de IA clasifica en tiempo real
+- Se muestran resultados en la interfaz
+- Se extraen datos de temperatura del medio ambiente
+
+## Interfaz
+- 📷 Vista en tiempo real (cámara)
+- 🧠 Clasificación de la hoja
+- 🌡️ Temperatura y humedad
+- ▶️ Botón para iniciar ruta predefinida del rover
 
 
-### Software
-
-- Arduino App Lab
-
-   
-## How it Works
-
-This example hosts a Web UI where we can see the video input from the camera connected via USB. The video stream is then processed using the `video_imageclassification` Brick. When a person is detected, it is logged along with the confidence score (e.g. 95% person).
 
 
 
