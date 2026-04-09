@@ -1,18 +1,18 @@
-### 🌱 EcoRover Q
-## Rover con Edge AI para monitoreo de áreas verdes
+## 🌱 EcoRover Q
+### Rover con Edge AI para monitoreo de áreas verdes
 
-## 🚨 Problematica
+### 🚨 Problematica
 
 Las ciudades enfrentan problemas como:
 
--Isla de calor urbana
--Contaminación
--Mantenimiento ineficiente de áreas verdes
+- Isla de calor urbana
+- Contaminación
+- Mantenimiento ineficiente de áreas verdes
 
 Actualmente, el estado de las plantas se revisa de forma manual y tardía, lo que provoca:
 
--Desperdicio de agua
--Pérdida de vegetación
+- Desperdicio de agua
+- Pérdida de vegetación
 
 
 
