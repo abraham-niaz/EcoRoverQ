@@ -1,0 +1,8 @@
+name: "Legado Verde - EcoRover Q"
+description: This example showcases person classification on camera, using a camera stream from USB camera
+ports: []
+bricks:
+- arduino:video_image_classification:
+    model: ei-model-955844-2
+- arduino:web_ui: {}
+icon: 🌱
