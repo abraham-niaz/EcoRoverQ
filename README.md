@@ -1,11 +1,21 @@
-# Clasificador de hojas de plantas
-The **Person Classifier** example lets you detect people on a live feed from a camera and visualize the model inference result on a user-friendly web interface.
+### 🌱 EcoRover Q
+## Rover con Edge AI para monitoreo de áreas verdes
 
-**Note:** This example requires to be run using **Network Mode** in the Arduino App Lab or in **Single-Board Computer (SBC)** mode. Because you will need a USB-C hub and a USB camera.
+## 🚨 Problematica
 
-![Person Classifier on Camera](assets/docs_assets/person-classification.png)
+Las ciudades enfrentan problemas como:
 
-This example uses a pre-trained model to detect people on a live video feed from a camera. The workflow involves continuously getting the frames from a USB camera, processing it through an AI model using the `video_imageclassification` Brick, and displaying the classification along with their corresponding probabilities. The code is structured to be easily adaptable to different models.
+-Isla de calor urbana
+-Contaminación
+-Mantenimiento ineficiente de áreas verdes
+
+Actualmente, el estado de las plantas se revisa de forma manual y tardía, lo que provoca:
+
+-Desperdicio de agua
+-Pérdida de vegetación
+
+
+
   
 
 ## Requisitos de Hardware
