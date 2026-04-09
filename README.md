@@ -32,6 +32,17 @@ Clasificación:
 - ⚠️ Hoja no sana
 - 🟫 Background
   
+## 🧠 Inteligencia Artificial
+Plataforma: Edge Impulse
+
+
+Modelo: MobileNetV2 (optimizado para embebidos)
+
+
+Dataset propio: ~120 imágenes por clase
+
+
+Ejecutado directamente en Arduino UNO Q
 
 ## Requisitos de Hardware
 
